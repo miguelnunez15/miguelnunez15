@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Ingeniero de software en formación y apasionado desarrollador con experiencia laboral en M. Moleiro Editor donde ejerzo de informático y desarrollador. Estudiante de Ingeniería del Software en la FIB, mi enfoque principal es el desarrollo de aplicaciones web. Me siento cómodo trabajando con una amplia variedad de lenguajes de programación, aunque tengo especial afinidad por PHP, Python y React. Siempre estoy buscando nuevos desafíos y oportunidades para expandir mi conocimiento tecnológico y colaborar en proyectos innovadores."<br><br>
+"Software engineer in training and passionate developer with work experience at M. Moleiro Editor where I work as an IT professional and developer. Student of Software Engineering at FIB, with a primary focus on web application development. I feel comfortable working with a wide variety of programming languages, although I have a special affinity for PHP, Python, and React. I am always seeking new challenges and opportunities to expand my technological knowledge and collaborate on innovative projects."
 
 
 ## 🌐 Socials:
