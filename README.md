@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=29&duration=3000&pause=500&color=FF428A&vCenter=true&width=460&height=50&lines=🚀+Hello+there%2C+I'm+Miguel!)](https://git.io/typing-svg)
 <p width="100">
-  "Software engineer in training and passionate developer with work experience at M. Moleiro Editor where I work as an IT professional and developer. Student of Software Engineering at FIB, with a primary focus on web application development. I feel comfortable working with a wide variety of programming languages, although I have a special affinity for PHP, Python, and React. I am always seeking new challenges and opportunities to expand my technological knowledge and collaborate on innovative projects."
+  "Software engineer in training and passionate developer with work experience as an IT professional and software developer. Student of Software Engineering at FIB, with a primary focus on web application development. I feel comfortable working with a wide variety of programming languages, although I have a special affinity for PHP, Python, and React. I am always seeking new challenges and opportunities to expand my technological knowledge and collaborate on innovative projects."
 </p>
 
 <div align="center">
